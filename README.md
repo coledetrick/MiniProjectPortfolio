@@ -5,3 +5,6 @@ Primary tech used:
   - Python
   - BASH
   - Docker
+  - Ansible
+  - Terraform
+  - GitHub Actions
