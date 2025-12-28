@@ -1,4 +1,5 @@
 The goal of this script was to write a simple tool to analyze logs from the command line, specifically nginx logs to grab whatever information you want.
+I was given a sample nginx log file to parse with my scripts from: 
 The data my script looks for is as follows:
 
 | Metric | Description |
