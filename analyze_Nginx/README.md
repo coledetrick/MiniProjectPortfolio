@@ -4,3 +4,8 @@ The data my script looks for is as follows:
 |--------------------------------------------------------------------------------|
 | IP address    | Date and time | Request method and path | Response status code |
 | Response size | Referrer      | User agent              |                      |
+
+| Metrics              |                |                |                |
+|----------------------|----------------|----------------|----------------|
+| IP address                | date and time            | Request method and path         | Response status code           |
+| Response size               | Referrer        | User agent      |  |
