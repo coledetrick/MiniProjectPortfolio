@@ -1,1 +1,1 @@
-My submission for: https://roadmap.sh/projects/log-archive-tool
+The goal for these scripts was to build a tool to archive logs on a set schedule by compressing them and storing them in a new directory, this is especially useful for removing old logs and keeping the system clean while maintaining the logs in a compressed format for future reference. This project helped me practice working with files and directories and refining some programming concepts.
